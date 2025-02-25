@@ -128,11 +128,11 @@ To get a local copy up and running follow these simple example steps.
 ### Installation
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/yourusername/commission-request-website.git
+   git clone https://github.com/angeluciel/portfolio.git
    ```
 2. **Navigate to the project directory:**
     ```bash
-    cd commission-request-website
+    cd portfolio
     ```
 3. **Install dependencies for the frontend:**
     ```bash

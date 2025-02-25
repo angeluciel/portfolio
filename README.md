@@ -161,7 +161,7 @@ To get a local copy up and running follow these simple example steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Once you have the development servers running, navigate to http://localhost:3000 to view the website. The platform provides:
+Once you have the development servers running, navigate to http://localhost:5173/ to view the website. The platform provides:
 * A dynamic portfolio gallery to explore the artist's work.
 * A comission request form that guides clients through submitting their comission details.
 

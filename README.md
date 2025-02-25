@@ -104,6 +104,7 @@ Use the `BLANK_README.md` to get started.
 * [![React][React.js]][React-url] - A javascript library for building user interfaces
 * [![Node][Node.js]][Node-url] - Javascript runtime for building scalable backend services.
 * [![GSAP][GSAP.js]][GSAP-url] - A robust library for creating animations.
+* [![Postgre]][Postgre-url] 
 <!-- * [![Vue][Vue.js]][Vue-url] -->
 <!-- * [![Angular][Angular.io]][Angular-url] -->
 <!-- * [![Svelte][Svelte.dev]][Svelte-url] -->
@@ -263,3 +264,6 @@ Project Link: [https://github.com/angeluciel/portfolio/tree/main](https://github
 <!-- GSAP -->
 [GSAP.js]: https://img.shields.io/badge/GSAP-101010?style=flat&logoSize=auto&logo=greensock&logoColor=FFFFFF
 [GSAP-url]: https://gsap.com/docs/v3/
+<!-- POSTGRESQL -->
+[Postgre]: https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white
+[Postgre-url]: https://www.postgresql.org/docs/

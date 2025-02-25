@@ -20,8 +20,8 @@
 -->
 
 [![Issues][issues-shield]][issues-url]
-[![Unlicense License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Unlicense License][license-shield]][license-url]
 
 
 
@@ -247,7 +247,7 @@ Project Link: [https://github.com/angeluciel/portfolio/tree/main](https://github
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/angeluciel/portfolio/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/badge/license-MIT-blue
 [license-url]: https://github.com/angeluciel/portfolio/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jo%C3%A3o-pedro-m-izidoro-986123309/
